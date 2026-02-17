@@ -40,6 +40,6 @@ public class Camera {
             camera.release();
             HighGui.destroyAllWindows();
             HighGui.waitKey(1);
-        }gi
+        }
     }
 }
